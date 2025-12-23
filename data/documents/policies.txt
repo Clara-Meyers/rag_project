@@ -1,0 +1,85 @@
+# TechCorp Company Policies
+
+## Refund Policy
+
+### Eligibility
+- Refund requests must be submitted within 30 days of purchase
+- Refunds are available for annual subscriptions only (monthly subscriptions can be cancelled but not refunded)
+- Partial refunds may be issued for unused portions of annual plans
+
+### Process
+1. Submit a refund request through your account settings or contact support
+2. Our team will review your request within 3-5 business days
+3. Approved refunds are processed to the original payment method within 7-10 business days
+
+### Exceptions
+- Refunds are not available for:
+  - Custom enterprise implementations
+  - Third-party add-ons purchased through our marketplace
+  - Accounts terminated due to terms of service violations
+
+---
+
+## Privacy Policy Summary
+
+### Data Collection
+We collect the following types of data:
+- Account information (name, email, company)
+- Usage data (features used, login times, device information)
+- Payment information (processed securely through third-party providers)
+
+### Data Usage
+Your data is used to:
+- Provide and improve our services
+- Send important updates about your account
+- Analyze usage patterns to improve user experience
+
+### Data Sharing
+We do not sell your personal data. We may share data with:
+- Service providers who help us operate our platform
+- Legal authorities when required by law
+- Business partners with your explicit consent
+
+---
+
+## Terms of Service Highlights
+
+### Acceptable Use
+Users agree to:
+- Use products only for lawful purposes
+- Not attempt to reverse engineer or copy our software
+- Not share account credentials with unauthorized users
+- Maintain accurate account information
+
+### Service Availability
+- We aim for 99.9% uptime
+- Scheduled maintenance is announced 48 hours in advance
+- Emergency maintenance may occur without notice for security issues
+
+### Intellectual Property
+- TechCorp retains all rights to its software and services
+- Users retain ownership of their data uploaded to our platforms
+- User-generated content may be used to improve our AI features (can be opted out)
+
+---
+
+## Support Response Times
+
+| Priority Level | Description | Response Time |
+|---------------|-------------|---------------|
+| Critical | Service completely unavailable | Within 1 hour |
+| High | Major feature not working | Within 4 hours |
+| Medium | Minor feature issue | Within 24 hours |
+| Low | General questions | Within 48 hours |
+
+Enterprise customers receive priority support with faster response times.
+
+---
+
+## Data Retention
+
+- Active account data: Retained while account is active
+- Deleted files: Permanently removed after 30 days in trash
+- Account deletion: All data removed within 90 days of request
+- Backup retention: 180 days for disaster recovery purposes
+

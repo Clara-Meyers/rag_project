@@ -1,0 +1,35 @@
+# TechCorp Frequently Asked Questions (FAQ)
+
+## Q1: What is TechCorp?
+A: TechCorp is a fictional technology company founded in 2020. We specialize in developing innovative software solutions for businesses of all sizes. Our headquarters is located in San Francisco, California.
+
+## Q2: What products does TechCorp offer?
+A: TechCorp offers three main products: DataFlow Pro (data analytics platform), SecureVault (cloud storage solution), and TaskMaster (project management tool). Each product is designed to help businesses improve their productivity and efficiency.
+
+## Q3: How can I contact customer support?
+A: You can reach our customer support team through multiple channels:
+- Email: support@techcorp.example.com
+- Phone: 1-800-TECHCORP (available Monday-Friday, 9 AM - 6 PM PST)
+- Live Chat: Available on our website 24/7
+
+## Q4: Does TechCorp offer a free trial?
+A: Yes! All our products come with a 14-day free trial. No credit card is required to start your trial. You can sign up on our website and start using the product immediately.
+
+## Q5: What payment methods do you accept?
+A: We accept all major credit cards (Visa, MasterCard, American Express), PayPal, and bank transfers for annual subscriptions. Enterprise customers can also request invoicing.
+
+## Q6: Is my data secure with TechCorp?
+A: Absolutely. Security is our top priority. All data is encrypted using AES-256 encryption both in transit and at rest. We are SOC 2 Type II certified and comply with GDPR regulations.
+
+## Q7: Can I cancel my subscription at any time?
+A: Yes, you can cancel your subscription at any time from your account settings. If you cancel, you'll continue to have access until the end of your current billing period.
+
+## Q8: Do you offer discounts for nonprofits or educational institutions?
+A: Yes, we offer a 50% discount for verified nonprofit organizations and educational institutions. Contact our sales team with proof of your organization's status to apply.
+
+## Q9: How often do you release updates?
+A: We release minor updates and bug fixes weekly. Major feature updates are released quarterly. All updates are included in your subscription at no extra cost.
+
+## Q10: Does TechCorp offer API access?
+A: Yes, all our products come with full API access on Pro and Enterprise plans. Our REST APIs are well-documented and allow you to integrate TechCorp products with your existing tools and workflows.
+

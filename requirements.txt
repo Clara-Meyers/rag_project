@@ -1,0 +1,15 @@
+# RAG Tutorial Project Dependencies
+# Install with: pip install -r requirements.txt
+
+# Google Generative AI SDK for Gemini API
+google-generativeai>=0.3.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Numerical operations (for vector similarity calculations)
+numpy>=1.24.0
+
+# Web interface framework
+streamlit>=1.28.0
+

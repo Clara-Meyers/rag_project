@@ -1,0 +1,70 @@
+# TechCorp Product Information
+
+## Product 1: DataFlow Pro
+
+### Overview
+DataFlow Pro is our flagship data analytics platform designed for businesses that need to make sense of their data quickly and efficiently.
+
+### Key Features
+- Real-time data visualization with customizable dashboards
+- Support for multiple data sources (SQL databases, CSV, APIs, cloud storage)
+- Built-in machine learning models for predictive analytics
+- Automated report generation and scheduling
+- Collaboration features for team-based analysis
+
+### Pricing
+- Starter Plan: $29/month (up to 5 users, 10GB data)
+- Pro Plan: $99/month (up to 25 users, 100GB data, API access)
+- Enterprise Plan: Custom pricing (unlimited users, unlimited data, dedicated support)
+
+---
+
+## Product 2: SecureVault
+
+### Overview
+SecureVault is our enterprise-grade cloud storage solution that prioritizes security without compromising usability.
+
+### Key Features
+- End-to-end encryption for all files
+- Automatic backup and version history (up to 180 days)
+- Granular access controls and permission management
+- Integration with popular productivity tools (Microsoft 365, Google Workspace)
+- Advanced sharing options with password protection and expiration dates
+
+### Pricing
+- Personal Plan: $9/month (1 user, 500GB storage)
+- Team Plan: $19/user/month (unlimited storage, admin controls)
+- Enterprise Plan: Custom pricing (advanced security features, compliance tools)
+
+---
+
+## Product 3: TaskMaster
+
+### Overview
+TaskMaster is a comprehensive project management tool that helps teams organize, track, and complete their work efficiently.
+
+### Key Features
+- Kanban boards, Gantt charts, and list views
+- Time tracking and resource management
+- Workflow automation with custom triggers
+- Integration with 100+ third-party apps
+- Mobile apps for iOS and Android
+
+### Pricing
+- Free Plan: Up to 3 projects, 5 team members
+- Pro Plan: $12/user/month (unlimited projects, advanced features)
+- Business Plan: $24/user/month (portfolio management, advanced reporting)
+- Enterprise Plan: Custom pricing (SSO, advanced security, dedicated support)
+
+---
+
+## System Requirements
+
+All TechCorp products are cloud-based and work in modern web browsers:
+- Google Chrome (version 90+)
+- Mozilla Firefox (version 88+)
+- Microsoft Edge (version 90+)
+- Safari (version 14+)
+
+Mobile apps require iOS 14+ or Android 10+.
+
