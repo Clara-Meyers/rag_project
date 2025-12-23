@@ -82,7 +82,6 @@ pip install -r requirements.txt
 ```
 
 ### Step 2: Get Your Gemini API Key
-# AIzaSyDg1TgCgh4uif3NosNUb4bWNvxPkQjNZhE
 1. Go to [Google AI Studio](https://makersuite.google.com/app/apikey)
 2. Click "Create API Key"
 3. Copy your API key
